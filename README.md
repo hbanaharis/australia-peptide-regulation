@@ -2,7 +2,7 @@
 
 Tracking TGA peptide regulatory developments, parliamentary inquiries, safety alerts, and anticipated regulations in Australia. Updated daily.
 
-## Latest Briefing — 25 November 2026
+## Latest Briefing — 26 November 2026
 
 ### Parliamentary Inquiry (25 November 2026)
 
@@ -36,7 +36,7 @@ Independent MP Monique Ryan backed the inquiry but is pushing for wider terms of
 
 ### TGA Safety Alerts
 
-**5 November 2026** — TGA testing finds unapproved peptides do not contain what their labels claim. Laboratory testing found Synedica peptide products did not contain what their labels claimed; some contained less than stated.
+**5 November 2026** — TGA testing finds unapproved peptides do not contain what their labels claim. Laboratory testing found Synedica peptide products did not contain what their labels claimed; some contained less than stated. Products identified when TGA assisted NSW Police Strike Force Antree.
 
 **14 September 2026** — TGA tests counterfeit retatrutide product following serious adverse event report. Retatrutide products marketed for weight loss may pose a serious risk and should not be used. One person who purchased and used unapproved peptides came close to death, suffering a potentially fatal oesophageal tear from uncontrollable vomiting.
 
@@ -44,18 +44,20 @@ Independent MP Monique Ryan backed the inquiry but is pushing for wider terms of
 
 **Sources:**
 - [TGA Peptide Products page — Latest alerts](https://www.tga.gov.au/resources/explore-topic/peptide-products) (updated 23 Sep 2026)
-- [TGA — Synedica alert (5 Nov 2026)](https://www.tga.gov.au/news/safety-alerts) via TGA peptide products page
+- [TGA — Synedica alert (5 Nov 2026)](https://www.tga.gov.au/safety/safety-monitoring-and-information/safety-alerts/tga-testing-finds-unapproved-peptides-do-not-contain-what-their-labels-claim)
 - [TGA — Counterfeit retatrutide alert (14 Sep 2026)](https://www.tga.gov.au/news/safety-alerts) via TGA peptide products page
 - [TGA — Melanotan II alert (17 Aug 2026)](https://www.tga.gov.au/news/safety-alerts) via TGA peptide products page
 - [NT News — oesophageal tear case](https://www.news.com.au/lifestyle/fitness/parliamentary-inquiry-launched-into-online-peptide-prescribing-amid-rising-health-and-safety-concerns/news-story/b9de756d5b68ed2622fa5bd245e7f895) (21 Nov 2026)
 
 ### Enforcement Actions
 
+- **24 November 2026** — Former NRL player Trent Merrin appeared in Wollongong Local Court on charges arising from Strike Force Antree. Court documents allege he manufactured more than 3,000 Synedica-branded peptide pens (Retatrutide, BPC-157, TB-500, Barbie Klow, Klow Skin) and 1,649 unlabelled Retatrutide vials between late May and late July 2026 at a Shell Cove facility. Matter adjourned to February 2027; remains on bail. Co-accused Luke John Foster also appeared. Third man previously charged and matter finalised.
 - TGA with NSW Police seized more than $120,000 of illicit peptide and anabolic steroid products from two residential premises in New South Wales allegedly linked to a social media influencer (17 August 2026).
 - Former company and directors behind BioV8 facing court for alleged unlawful advertising of peptides (28 September 2026).
 - June 2026: joint operation with Australian Border Force and Victoria Police seized peptide products, performance and image enhancing drugs (PIEDs), and illicit steroids with estimated street value exceeding $2 million.
 
 **Sources:**
+- [Illawarra Mercury — Merrin court appearance (24 Nov 2026)](https://www.illawarramercury.com.au/story/9396975/trent-merrin-faces-court-over-alleged-role-in-peptide-syndicate/)
 - [TGA media release — BioV8 court action (28 Sep 2026)](https://www.tga.gov.au/news/media-releases) via TGA peptide products page
 - [TGA media release — NSW seizure with influencer link (17 Aug 2026)](https://www.tga.gov.au/news/media-releases) via TGA peptide products page
 - [TGA media release — $2M seizure with Border Force/Victoria Police (10 Jun 2026)](https://www.tga.gov.au/news/media-releases/tga-strengthens-compliance-focus-unapproved-peptide-products-part-evolving-risk-response) (10 Jun 2026)
