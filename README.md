@@ -2,6 +2,8 @@
 
 Tracking TGA peptide regulatory developments, parliamentary inquiries, safety alerts, and anticipated regulations in Australia. Updated daily.
 
+Browse this briefing as a webpage: [index.html](index.html).
+
 ## Latest Briefing — 25 November 2026
 
 ### Parliamentary Inquiry (25 November 2026)
