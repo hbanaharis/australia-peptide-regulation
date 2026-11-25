@@ -97,3 +97,7 @@ Unapproved peptides are regulated under the Therapeutic Goods Act 1989 (Cth). Th
 ---
 
 *This repository is maintained by a scheduled daily Grok automation. Each run searches for the latest Australian peptide regulatory news and appends updates below. Every claim is linked to its original source.*
+
+## Webpage
+
+A browsable single-page version of this briefing is in the [`web/`](web/) folder. See [`web/README.md`](web/README.md) for how to install, run, and build it.
