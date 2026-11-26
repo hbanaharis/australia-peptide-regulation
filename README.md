@@ -2,17 +2,21 @@
 
 Tracking TGA peptide regulatory developments, parliamentary inquiries, safety alerts, and anticipated regulations in Australia. Updated daily.
 
-## Latest Briefing — 26 November 2026
+## Latest Briefing — 27 November 2026
 
-### Parliamentary Inquiry (25 November 2026)
+### Parliamentary Inquiry (commenced 26 November 2026)
 
-Federal Health Minister Mark Butler wrote to the House of Representatives Standing Committee on Health, Aged Care and Disability on Friday 20 November requesting an urgent parliamentary inquiry into the safety and quality of online peptide prescribing.
+The House of Representatives Standing Committee on Health, Aged Care and Disability has formally commenced its inquiry into the safety and quality of prescribing peptides in Australia. Submissions are open until **29 January 2027**.
+
+Committee Chair Dr Mike Freelander MP said online models of care have the potential to make healthcare more convenient and accessible, but innovation must be accompanied by appropriate safeguards for patients. The Committee is interested in how peptides are being prescribed and used (including through online services), what is driving consumer interest, the role of advertising, social media and digital platforms, and whether Australia’s existing regulatory framework remains appropriate.
+
+This follows Federal Health Minister Mark Butler writing to the Committee on Friday 20 November requesting an urgent parliamentary inquiry into the safety and quality of online peptide prescribing.
 
 Key quotes from Butler:
 - "I am extremely concerned about escalating reports by the TGA of unapproved peptides being prescribed and delivered via telehealth and one-stop-shop style dispensaries."
 - "Peptides are often marketed on social media as wonder-drugs, but the reality is that they can pose serious health risks to Australian consumers."
 
-The committee will examine:
+The inquiry will examine:
 - Prevalence of approved, off-label, and unapproved peptide use
 - Impact of vertically integrated online care models on patient outcomes
 - Whether current enforcement powers are strong enough to rein in rogue operators
@@ -25,6 +29,8 @@ Special Envoy for Men's Health Dan Repacholi took aim at fitness influencers dri
 Independent MP Monique Ryan backed the inquiry but is pushing for wider terms of reference covering all direct-to-consumer telehealth services (GLP-1 receptor agonists, medicinal cannabis, stimulants, hormone therapies), ownership links between platforms/prescribers/pharmacies/suppliers, inducements and lock-in arrangements, prescribing oversight outside Medicare, use of compounding and special access pathways as routine supply channels, and gaps between the TGA, Ahpra, the ACCC, and state regulators. Dr Ryan noted poison centre calls in the first half of 2026 were more than triple the total for all of 2025.
 
 **Sources:**
+- [Parliament of Australia — Media release: Online peptide prescribing and patient safety under parliamentary scrutiny](https://www.aph.gov.au/About_Parliament/House_of_Representatives/About_the_House_News/Media_Releases/Online_peptide_prescribing_and_patient_safety_under_parliamentary_scrutiny) (26 Nov 2026)
+- [Parliament of Australia — Inquiries accepting submissions](https://www.aph.gov.au/Parliamentary_Business/Committees/Submissions_Open) (submissions close 29 Jan 2027)
 - [The West Australian — Health minister requests parliamentary inquiry](https://thewest.com.au/politics/federal-politics/health-minister-requests-parliamentary-inquiry-into-safety-of-online-prescribing-practices-for-peptides-c-23194370) (21 Nov 2026)
 - [Sydney Morning Herald — Federal inquiry targets online clinics](https://www.smh.com.au/politics/federal/federal-inquiry-targets-online-clinics-peddling-wonder-drug-peptides-20261121-p61g4f.html) (21 Nov 2026)
 - [7NEWS — Parliamentary inquiry launched after actor Richard Norton's death](https://7news.com.au/lifestyle/health-wellbeing/parliamentary-inquiry-launched-into-peptide-prescriptions-after-actor-richard-nortons-death-c-23196490) (22 Nov 2026)
